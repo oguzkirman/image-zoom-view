@@ -1,4 +1,4 @@
-# imagezoom
+# image-zoom-view
 Imageview zoom library for android
 
 <h2>Integration </h2>
