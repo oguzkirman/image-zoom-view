@@ -17,6 +17,4 @@ Imageview zoom library for android
 
 <h3>Preview </h3>
 </pr>
-![Alt Text](https://https://media.giphy.com/media/w6ovjFaFdfLeGB0TAv/giphy.gif)
-
-
+<a href="https://imgflip.com/gif/2f95sw"><img src="https://i.imgflip.com/2f95sw.gif" title="made at imgflip.com"/></a>
